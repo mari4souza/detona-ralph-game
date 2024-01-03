@@ -4,7 +4,7 @@ Bem vindo ao **Detona Ralph Game**! Este é um jogo baseado no famoso filme "Det
 Este projeto não apenas oferece entretenimento, mas também demonstra várias técnicas avançadas de desenvolvimento de jogos em JavaScript.
 
 <p align="center">
-  <img height="350px" src="./src/images/game-img.png"><br>
+  <img height="300px" src="./src/images/game-img.png"><br>
 </p>
 
 
